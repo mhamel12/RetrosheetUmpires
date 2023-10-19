@@ -6,9 +6,13 @@ Tested with Python 3.10.8 on Windows.
 These files are licensed by a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license: https://creativecommons.org/licenses/by-nc/4.0/
 
 References:
+
 https://www.retrosheet.org/game.htm (to download Event Files and Box Score Event Files)
+
 https://www.retrosheet.org/eventfile.htm (explanation of the Event File format)
+
 https://www.retrosheet.org/boxfile.txt
+
  
 Requirements:
 1. Download ballparks.zip, biofile.zip, and teams.zip from retrosheet.org; unzip all into a subfolder named "ids"
