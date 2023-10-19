@@ -15,9 +15,13 @@ https://www.retrosheet.org/boxfile.txt
 
  
 Requirements:
-1. Download ballparks.zip, biofile.zip, and teams.zip from retrosheet.org; unzip all into a subfolder named "ids"
-2. Download and unzip one or more Event Files (.evx) into a subfolder named "evx" 
-    AND/OR
+
+1. Download ballparks.zip, biofile.zip, and teams.zip from retrosheet.org; unzip all of these into a subfolder named "ids".
+
+2. Download and unzip one or more Event Files (.evx) into a subfolder named "evx".
+
+   AND/OR
+
 3. Download and unzip one or more Box Score Event Files (.ebx) into a subfolder named "ebx". 
 
 At least one .evx or .ebx file is required.
