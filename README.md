@@ -38,3 +38,10 @@ Example output files for the regular season from 1900-1979 are included, based o
 * The .xlsx files were manually generated using Microsoft Excel, using the corresponding .csv files as a starting point.
 
 Additional examples for All-Star Games and Postseason games are also included. These include Negro League games that have limited information available.
+
+Copyright notice for the Retrosheet data used to generate the .csv files:
+
+The information used here was obtained free of
+charge from and is copyrighted by Retrosheet.  Interested
+parties may contact Retrosheet at 20 Sunset Rd.,
+Newark, DE 19711.
