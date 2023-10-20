@@ -32,5 +32,5 @@ included in an Event File; this script assumes that the information in the Event
 is more complete/accurate, and uses that information as the primary data source for 
 each game.
 
-Example output files for the regular season from 1900-1979 are included.
+Example output files for the regular season from 1900-1979 are included, based on data files downloaded from Retrosheet on Oct 16, 2023.
 Additional examples for All-Star Games and Postseason games are also included. These include Negro League games that have limited information available.
