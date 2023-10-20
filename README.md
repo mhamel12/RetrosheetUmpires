@@ -7,11 +7,11 @@ These files are licensed by a Creative Commons Attribution-NonCommercial 4.0 Int
 
 References:
 
-https://www.retrosheet.org/game.htm (to download Event Files and Box Score Event Files)
+https://www.retrosheet.org/game.htm (to download Event Files and Box Score Event Files, ballparks.zip, and teams.zip)
 
 https://www.retrosheet.org/eventfile.htm (explanation of the Event File format)
 
-https://www.retrosheet.org/boxfile.txt
+https://www.retrosheet.org/biofile.htm (to download biofile.zip)
 
  
 Requirements:
