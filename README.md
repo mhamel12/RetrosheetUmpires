@@ -34,7 +34,11 @@ each game.
 
 Example output files for the regular season from 1900-1979 are included, based on data files downloaded from 
 Retrosheet on December 20, 2023. The data files were released by Retrosheet as part of their "Fall 2023 Release" 
-on December 6, 2023: https://www.retrosheet.org/fall2023release.html
+on December 6, 2023: https://www.retrosheet.org/fall2023release.html (Note that this release remapped the "CLE"
+team abbreviation in teams.csv from Cleveland Indians to Cleveland Guardians. I did not update umpires.py to
+compensate for this, so the Guardians name now appears in the generated .csv files for all years from 1901 to
+the present. This is similar to how the Boston Red Sox name is used for the early 1900's. Maybe I will fix
+these problems in a future release.)
 
 Additional examples for All-Star Games and Postseason games are also included. These include Negro League games.
 
